@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="docNameView">Doctor Name</string>
+    <string name="docGenderView">Gender</string>
+    <string name="docPhoneView">Contact No</string>
+    <string name="docEmailView">Email</string>
+    <string name="docBirthView">Date of Birth</string>
+    <string name="docAddressView">Address</string>
+    <string name="docPassView">Password</string>
+    <string name="createProfile">Create Profile</string>
+
+    <string name="clinicview">Patient</string>
+    <string name="noticeview">Notices</string>
+    <string name="textNoticename">Create Notices</string>
+    <string name="txtNoticesView">Notices View</string>
+    <string name="txtEditNotice">Edit Notice</string>
+    <string name="e_doc">Edit Doctor Profile</string>
+    <string name="edit_d">Edit Doctor Profile</string>
+    <string name="Edit_Doc">Edit Profile</string>
+    <string name="D_profile">Doctor Profile</string>
+    <string name="d_delete">Delete</string>
+    <string name="d_edit">Edit</string>
+    <string name="name_d">Mohona Rajapaksha</string>
+    <string name="Contact_d">0757654502</string>
+    <string name="d_email">mRajapaksha@gamil.com</string>
+    <string name="birth_d">1956/5/5</string>
+    <string name="add_d">122,Kandy</string>
+    <string name="Gender_d">Male</string>
+    <string name="doc_crete"> Create Doctor Profile</string>
+    <string name="c_clinic1">Clinic 1</string>
+    <string name="Patients">Patients</string>
+    <string name="n1">Notice 1</string>
+    <string name="n_input">Notice about somting regarding the Doctor notices</string>
+    <string name="n3">Notice 3</string>
+    <string name="C_Create">Create Clinic</string>
+    <string name="Edit_cli">Edit Clinic</string>
+    <string name="update">Update</string>
+    <string name="clinc_V">Clinic View</string>
+
+    <string name="app_name">ProjectMad</string>
+    <string name="btnCreate">Create Notice</string>
+    <string name="myclinic">My Clinic</string>
+    <string name="view2">View Note</string>
+    <string name="btnCreateNow">Create</string>
+    <string name="viewCreateNote">Create Note</string>
+    <string name="txtName1">Note Name :</string>
+    <string name="txtArea">Description :</string>
+    <string name="btnsave">Save</string>
+    <string name="nEdit">Edit Notice</string>
+    <string name="btnSaveChange">Save</string>
+    <string name="txtSearch">Search</string>
+    <string name="btnCreateClinic">Create Clinic</string>
+    <string name="btnPjoin">Join Clinic</string>
+    <string name="btnShowData">View Notice</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnview">Clinic</string>
+    <string name="btnView">Notes</string>
+    <string name="notename">Notice 01</string>
+    <string name="noteDescription">Take medicine at 3.00p.m after lounch</string>
+    <string name="noteDes1">Notice about something regarding the Doctor notices</string>
+    <string name="n_2">Notice 2</string>
+    <string name="n_3">Notice 3</string>
+    <string name="c_name">Clinic Name</string>
+
+
+</resources>
